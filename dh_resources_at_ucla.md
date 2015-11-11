@@ -1,8 +1,6 @@
-#It Takes a (Balkanized) Village:#
-
 #Digital Humanities Resources at UCLA#
 
-Grad Student Edition
+*Grad Student Edition*
 
 Related: You can find my go-to recommendations for tools and tutorials
 here: http://bit.ly/dh101resources.
