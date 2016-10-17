@@ -1,20 +1,17 @@
 #Digital Humanities Resources at UCLA#
 
-*Grad Student Edition*
-
 Related: You can find my go-to recommendations for tools and tutorials
 here: http://bit.ly/dh101resources.
 
 ##Take a class##
 
 You might start with DH201, the graduate introduction to digital
-humanities, which we’ll offer this winter. In addition, the DH program
-offers regular special-topics courses. This year, we’ll offer classes on
-working with museum data, 3D modeling, and Internet history.
+humanities, which we offer in the winter. In addition, the DH program
+offers regular special-topics courses.
 
-If you’re interested in learning about UCLA’s graduate certificate in
+If you’re interested in learning about UCLA’s graduate certificate and minor in
 digital humanities, you can find information here:
-http://www.cdh.ucla.edu/curriculum/graduate-certificate/.
+http://www.cdh.ucla.edu/curriculum/.
 
 ##Don’t talk to a human being##
 
@@ -41,17 +38,7 @@ Facebook.
 **Try and stump three DH pros**
 
 DH Open Office Hours with Dave Shepard, Dawn Childress, and Miriam
-Posner, every Thursday from 12:30 to 2:30, in Public Affairs 1041.
-
-**Learn how to build digital exhibits**
-
-Omeka/Neatline meetups, every Wednesday from 10:30 a.m. to 12:30 p.m.,
-in Public Affairs 1041.
-
-**Learn about 3D modeling**
-
-VectorWorks/3D modeling meetups, every Thursday from 9am to 11am, Public
-Affairs 1041.
+Posner, every Thursday from 12:30 to 2:30, in the Scholarly Innovation Lab (the glassed-in room at the back of the YRL Research Commons).
 
 **Get help with mapping questions (1)**
 
@@ -66,13 +53,11 @@ albertkun@idre.ucla.edu.
 
 **Talk to a grad student about your problem**
 
-Drop by Public Affairs 1020 to speak with a grad student research and
-instructional technology consultant, every weekday from 9 to 5.
+Drop by Public Affairs 1020 to speak with a grad student research and instructional technology consultant, every weekday from 9 to 5.
 
 **Get general digital scholarship advice**
 
-Make an appointment with Zoe Borovsky, UCLA’s digital scholarship
-librarian, by emailing zoe@library.ucla.edu.
+Make an appointment with Zoe Borovsky, UCLA’s digital scholarship librarian, by emailing zoe@library.ucla.edu.
 
 **Go to a workshop**
 
@@ -88,19 +73,17 @@ If you can get three or more people together, I will work with you to
 find a time to offer a workshop on anything I know about. If I don’t
 know about it, I’ll help you find someone who does.
 
+**Calendar of DH-Related Events**
+
+Every week, I comb about 20 individual calendars to find events that might be interesting or useful to people who do DH. You can find that calendar here: http://www.cdh.ucla.edu/events/month/.
+
 **Ask a question about statistics**
 
-Did you know UCLA offers walk-in help for statistics questions? Every
-Monday through Thursday from 1 to 4pm, in 4919 Math Sciences. More info
-here: http://statistics.ats.ucla.edu/stat/services.htm.
+Did you know UCLA offers walk-in help for statistics questions? Every Monday through Thursday from 1 to 4pm, in 4919 Math Sciences. More info here: http://statistics.ats.ucla.edu/stat/services.htm.
 
 **Obtain server space for a project**
 
-CDH’s policy on server space is evolving, but as a first step, email
-John Lynch, CDH’s academic technology manager, at
-jlynch@humnet.ucla.edu. If you’re interested in buying your own space, I
-recommend Reclaim Hosting, which costs $25/year, including a domain
-name, and has excellent support: https://reclaimhosting.com/.
+CDH’s policy on server space is evolving, but as a first step, email John Lynch, CDH’s academic technology manager, at jlynch@humnet.ucla.edu. If you’re interested in buying your own space, I recommend Reclaim Hosting, which costs $25/year, including a domain name, and has excellent support: https://reclaimhosting.com/.
 
 **Get help with teaching technology**
 
