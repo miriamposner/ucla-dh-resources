@@ -33,7 +33,7 @@ the UCLA Library catalog.
 Find us at @ucla\_dh on Twitter and “UCLA Digital Humanities Program” on
 Facebook.
 
-#Talk to a human being#
+# Talk to a human being
 
 **Get help with mapping questions**
 
