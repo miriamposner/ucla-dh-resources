@@ -26,7 +26,7 @@ the UCLA Library catalog.
 
 **Weekly updates on jobs, opportunities, events, and CFPs**
 
-[Sign up for our newsletter.](http://ucla.us15.list-manage.com/subscribe?u=f571e8b9f741118e5862bb349&id=383a8b4e7a_
+[Sign up for our newsletter.](http://ucla.us15.list-manage.com/subscribe?u=f571e8b9f741118e5862bb349&id=383a8b4e7a)
 
 **Twitter! Facebook!**
 
