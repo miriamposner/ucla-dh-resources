@@ -1,9 +1,9 @@
-#Digital Humanities Resources at UCLA#
+# Digital Humanities Resources at UCLA
 
 Related: You can find my go-to recommendations for tools and tutorials
 here: http://bit.ly/dh101resources.
 
-##Take a class##
+# Take a class
 
 You might start with DH201, the graduate introduction to digital
 humanities, which we offer in the winter. In addition, the DH program
@@ -11,9 +11,9 @@ offers regular special-topics courses.
 
 If you’re interested in learning about UCLA’s graduate certificate and minor in
 digital humanities, you can find information here:
-http://www.cdh.ucla.edu/curriculum/.
+http://dh.ucla.edu/undergraduate/courses/.
 
-##Don’t talk to a human being##
+# Don’t talk to a human being
 
 **Tutorial videos on (almost) every conceivable technical topic**
 
@@ -26,7 +26,7 @@ the UCLA Library catalog.
 
 **Weekly updates on jobs, opportunities, events, and CFPs**
 
-Sign up for our newsletter: tinyletter.com/miriamposner.
+[Sign up for our newsletter.](http://ucla.us15.list-manage.com/subscribe?u=f571e8b9f741118e5862bb349&id=383a8b4e7a_
 
 **Twitter! Facebook!**
 
@@ -35,17 +35,7 @@ Facebook.
 
 #Talk to a human being#
 
-**Try and stump three DH pros**
-
-DH Open Office Hours with Dave Shepard, Dawn Childress, and Miriam
-Posner, every Thursday from 12:30 to 2:30, in the Scholarly Innovation Lab (the glassed-in room at the back of the YRL Research Commons).
-
-**Get help with mapping questions (1)**
-
-Make an appointment with Andy Rutkowski, UCLA’s geospatial librarian, by
-emailing arutkowski@library.ucla.edu.
-
-**Get help with mapping questions (2)**
+**Get help with mapping questions**
 
 Make an appointment with Albert Kochaphum, the GIS assistant at UCLA’s
 Institute for Digital Research and Education, by emailing
@@ -75,7 +65,7 @@ know about it, I’ll help you find someone who does.
 
 **Calendar of DH-Related Events**
 
-Every week, I comb about 20 individual calendars to find events that might be interesting or useful to people who do DH. You can find that calendar here: http://www.cdh.ucla.edu/events/month/.
+[CDH Calendar.](http://cdh.ucla.edu/events/)
 
 **Ask a question about statistics**
 
@@ -92,5 +82,5 @@ tom@humnet.ucla.edu.
 
 **Ask Miriam Posner something**
 
-You can always just book a meeting with me at
-http://www.meetme.so/MiriamPosner.
+You can always just book a meeting with me at https://miriamposner.youcanbook.me/.
+.
