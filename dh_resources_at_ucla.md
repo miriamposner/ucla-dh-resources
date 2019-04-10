@@ -11,7 +11,7 @@ offers regular special-topics courses.
 
 If you’re interested in learning about UCLA’s graduate certificate and minor in
 digital humanities, you can find information here:
-http://dh.ucla.edu/undergraduate/courses/.
+https://dh.ucla.edu/.
 
 # Don’t talk to a human being
 
