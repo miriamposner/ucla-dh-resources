@@ -17,21 +17,12 @@ http://dh.ucla.edu/undergraduate/courses/.
 
 **Tutorial videos on (almost) every conceivable technical topic**
 
-Lynda.com, accessed through learnit.ucla.edu.
+Lynda.com can be accessed throught the Los Angeles Public Library or the County of Los Angeles Public Library. You just need a library card.
 
 **Ebooks on (almost) every conceivable technical topic**
 
-Safari Books Online, accessed through learnit.ucla.edu and indexed in
+[Safari Books Online](http://proquest.safaribooksonline.com/), accessed through learnit.ucla.edu and indexed in
 the UCLA Library catalog.
-
-**Weekly updates on jobs, opportunities, events, and CFPs**
-
-[Sign up for our newsletter.](http://ucla.us15.list-manage.com/subscribe?u=f571e8b9f741118e5862bb349&id=383a8b4e7a)
-
-**Twitter! Facebook!**
-
-Find us at @ucla\_dh on Twitter and “UCLA Digital Humanities Program” on
-Facebook.
 
 # Talk to a human being
 
@@ -49,6 +40,10 @@ Drop by Public Affairs 1020 to speak with a grad student research and instructio
 
 Make an appointment with Zoe Borovsky, UCLA’s digital scholarship librarian, by emailing zoe@library.ucla.edu.
 
+**Get help with any question related to data analysis
+
+The Library's new [Data Science Center](https://www.library.ucla.edu/location/data-science-center/our-team) is a fantastic resource. You can book appointments online to speak with experts about data manipulation, R, Python, and many other topics. 
+
 **Go to a workshop**
 
 The library offers occasional workshops on digital scholarship topics:
@@ -63,10 +58,6 @@ If you can get three or more people together, I will work with you to
 find a time to offer a workshop on anything I know about. If I don’t
 know about it, I’ll help you find someone who does.
 
-**Calendar of DH-Related Events**
-
-[CDH Calendar.](http://cdh.ucla.edu/events/)
-
 **Ask a question about statistics**
 
 Did you know UCLA offers walk-in help for statistics questions? Every Monday through Thursday from 1 to 4pm, in 4919 Math Sciences. More info here: http://statistics.ats.ucla.edu/stat/services.htm.
@@ -79,8 +70,3 @@ CDH’s policy on server space is evolving, but as a first step, email John Lync
 
 Email Tom Garbelotti, CDH’s instructional technology coordinator, at
 tom@humnet.ucla.edu.
-
-**Ask Miriam Posner something**
-
-You can always just book a meeting with me at https://miriamposner.youcanbook.me/.
-.
