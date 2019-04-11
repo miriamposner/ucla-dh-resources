@@ -26,7 +26,7 @@ the UCLA Library catalog.
 
 # Talk to a human being
 
-**Get general technical help
+**Get general technical help**
 
 For workaday technical help -- things like printers, email, and hardware issues -- you can speak to your [departmental technology analyst (DTA)](https://humtech.ucla.edu/people/) or stop by [HumTech](https://humtech.ucla.edu/) between 8am and 4pm on weekdays.
 
@@ -44,7 +44,7 @@ Drop by Public Affairs 1020 to speak with a grad student research and instructio
 
 Make an appointment with Zoe Borovsky, UCLA’s digital scholarship librarian, by emailing zoe@library.ucla.edu.
 
-**Get help with any question related to data analysis
+**Get help with any question related to data analysis**
 
 The Library's new [Data Science Center](https://www.library.ucla.edu/location/data-science-center/our-team) is a fantastic resource. You can book appointments online to speak with experts about data manipulation, R, Python, and many other topics. 
 
@@ -68,5 +68,5 @@ If you need more space or different features than HumSpace offers, try emailing 
 
 **Get help with teaching technology**
 
-Email Tom Garbelotti, CDH’s instructional technology coordinator, at
-tom@humnet.ucla.edu.
+Email Tom Garbelotti, HumTech’s instructional technology coordinator, at
+tom@humnet.ucla.edu. You can also find some resources on [HumTech's website](https://humtech.ucla.edu/instructional-support/).
