@@ -50,8 +50,7 @@ The Library's new [Data Science Center](https://www.library.ucla.edu/location/da
 
 **Go to a workshop**
 
-The library offers occasional workshops on digital scholarship topics:
-http://library.ucla.edu/news-events/events-agenda. In addition, the
+The library offers occasional [workshops on digital scholarship topics](https://calendar.library.ucla.edu/calendar/research-workshops/?cid=2190&t=d&d=0000-00-00&cal=2190). In addition, the
 Institute for Digital Research and Education offers frequent workshops
 on topics like programming languages and supercomputing:
 https://idre.ucla.edu/calendar.
