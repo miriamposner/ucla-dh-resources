@@ -26,6 +26,10 @@ the UCLA Library catalog.
 
 # Talk to a human being
 
+**Get general technical help
+
+For workaday technical help -- things like printers, email, and hardware issues -- you can speak to your [departmental technology analyst (DTA)](https://humtech.ucla.edu/people/) or stop by [HumTech](https://humtech.ucla.edu/) between 8am and 4pm on weekdays.
+
 **Get help with mapping questions**
 
 Make an appointment with Albert Kochaphum, the GIS assistant at UCLA’s
@@ -52,19 +56,15 @@ Institute for Digital Research and Education offers frequent workshops
 on topics like programming languages and supercomputing:
 https://idre.ucla.edu/calendar.
 
-**Organize a workshop**
-
-If you can get three or more people together, I will work with you to
-find a time to offer a workshop on anything I know about. If I don’t
-know about it, I’ll help you find someone who does.
-
 **Ask a question about statistics**
 
 Did you know UCLA offers walk-in help for statistics questions? Every Monday through Thursday from 1 to 4pm, in 4919 Math Sciences. More info here: http://statistics.ats.ucla.edu/stat/services.htm.
 
 **Obtain server space for a project**
 
-CDH’s policy on server space is evolving, but as a first step, email John Lynch, CDH’s academic technology manager, at jlynch@humnet.ucla.edu. If you’re interested in buying your own space, I recommend Reclaim Hosting, which costs $25/year, including a domain name, and has excellent support: https://reclaimhosting.com/.
+Faculty, staff, and graduate students in the Humanities can obtain server space from HumTech through a program called [HumSpace](https://humtech.ucla.edu/web-support/humspace/). 
+
+If you need more space or different features than HumSpace offers, try emailing John Lynch, CDH’s academic technology manager, at jlynch@humnet.ucla.edu. If you’re interested in buying your own space, I recommend Reclaim Hosting, which costs $25/year, including a domain name, and has excellent support: https://reclaimhosting.com/.
 
 **Get help with teaching technology**
 
