@@ -44,6 +44,10 @@ Drop by Public Affairs 1020 to speak with a grad student research and instructio
 
 Make an appointment with Zoe Borovsky, UCLA’s digital scholarship librarian, by emailing zoe@library.ucla.edu.
 
+**Get advice on accessibility**
+
+UCLA's [Office of Disabilities and Computing](https://dcp.ucla.edu/services/) offers accessibility evaluations to faculty and staff. (You might also consider installing [WAVE](https://wave.webaim.org/extension/), an accessibility plugin for Chrome and Firefox.
+
 **Get help with any question related to data analysis**
 
 The Library's new [Data Science Center](https://www.library.ucla.edu/location/data-science-center/our-team) is a fantastic resource. You can book appointments online to speak with experts about data manipulation, R, Python, and many other topics. 
