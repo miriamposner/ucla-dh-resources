@@ -46,7 +46,7 @@ Make an appointment with Zoe Borovsky, UCLA’s digital scholarship librarian, b
 
 **Get advice on accessibility**
 
-UCLA's [Office of Disabilities and Computing](https://dcp.ucla.edu/services/) offers accessibility evaluations to faculty and staff. (You might also consider installing [WAVE](https://wave.webaim.org/extension/), an accessibility plugin for Chrome and Firefox.
+UCLA's [Office of Disabilities and Computing](https://dcp.ucla.edu/services/) offers accessibility evaluations to faculty and staff. (You might also consider installing [WAVE](https://wave.webaim.org/extension/), an accessibility plugin for Chrome and Firefox.)
 
 **Get help with any question related to data analysis**
 
